@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/heavydefense"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" path="libs/gdx-freetype.jar"/>
+	<classpathentry kind="lib" path="libs/kryo-2.21-source.jar"/>
+	<classpathentry kind="lib" path="libs/minlog-none-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/reflectasm-1.07.jar"/>
+	<classpathentry exported="true" kind="lib" path="/heavydefense/libs/gdx.jar" sourcepath="/heavydefense/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="libs/libGoogleAnalyticsServices.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/heavydefense-android/libs/javadocs.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

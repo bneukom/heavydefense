@@ -1,0 +1,14 @@
+- wave label should be invisible when the game is finished
+- grass level fixed
+- free tower placement levels
+- some more achievements
+- new way of saving games...
+- decrease memory usage!
+
+
+
+
+patchnotes:
+- New levels without roads, towers can be placed freely.
+- Improved back button handling.
+- User interface improvements.
