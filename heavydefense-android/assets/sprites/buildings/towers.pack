@@ -1,0 +1,68 @@
+
+towers.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teslatower_shooting
+  rotate: false
+  xy: 1, 437
+  size: 440, 45
+  orig: 440, 45
+  offset: 0, 0
+  index: -1
+artillerytower
+  rotate: false
+  xy: 1, 219
+  size: 213, 216
+  orig: 213, 216
+  offset: 0, 0
+  index: -1
+artillerytower_shooting
+  rotate: false
+  xy: 1, 1
+  size: 213, 216
+  orig: 213, 216
+  offset: 0, 0
+  index: -1
+turrettower
+  rotate: false
+  xy: 216, 255
+  size: 189, 180
+  orig: 189, 180
+  offset: 0, 0
+  index: -1
+turrettower_muzzle
+  rotate: false
+  xy: 216, 73
+  size: 189, 180
+  orig: 189, 180
+  offset: 0, 0
+  index: -1
+rockettower
+  rotate: false
+  xy: 443, 332
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+firetower
+  rotate: false
+  xy: 595, 368
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+slowtower
+  rotate: false
+  xy: 216, 7
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+teslatower
+  rotate: false
+  xy: 705, 437
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1

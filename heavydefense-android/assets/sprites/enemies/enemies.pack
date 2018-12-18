@@ -1,0 +1,61 @@
+
+enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+endboss
+  rotate: false
+  xy: 1, 308
+  size: 543, 543
+  orig: 543, 543
+  offset: 0, 0
+  index: -1
+boss
+  rotate: false
+  xy: 1, 185
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+copter
+  rotate: false
+  xy: 546, 731
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+coptershadow
+  rotate: false
+  xy: 1, 63
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+heavyTank
+  rotate: false
+  xy: 124, 243
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+fastTank
+  rotate: false
+  xy: 546, 669
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+genericTank1
+  rotate: false
+  xy: 668, 791
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+genericTank2
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

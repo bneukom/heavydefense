@@ -1,0 +1,54 @@
+
+overlay.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosionbig
+  rotate: false
+  xy: 1, 35
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+lavaeruption
+  rotate: false
+  xy: 283, 35
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 1, 12
+  size: 180, 21
+  orig: 180, 21
+  offset: 0, 0
+  index: -1
+rocket
+  rotate: false
+  xy: 445, 104
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+rocket2
+  rotate: false
+  xy: 1, 1
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+turretBullet
+  rotate: false
+  xy: 183, 27
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+turretBullet2
+  rotate: false
+  xy: 445, 99
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
