@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="Spawn" color="#00007f"/>
+ <objecttype name="Collision" color="#a40002"/>
+ <objecttype name="PathNode" color="#005500"/>
+</objecttypes>
